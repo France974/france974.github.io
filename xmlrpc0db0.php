@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://localhost/jburesi</homePageLink>
+		<homePageLink>https://france974.github.io/</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://localhost/jburesi/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://localhost/jburesi/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://localhost/jburesi/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://localhost/jburesi/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://localhost/jburesi/index.php/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://france974.github.io//xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://france974.github.io//xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://france974.github.io//xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://france974.github.io//xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://france974.github.io//index.php/wp-json/" />
 			</apis>
 	</service>
 </rsd>
